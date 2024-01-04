@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48093094066",
+    "project_id": "orphanreach1",
+    "storage_bucket": "orphanreach1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48093094066:android:ca68e8c8b2c8b9d19fa9ab",
+        "android_client_info": {
+          "package_name": "com.example.orphanreach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWpLnbq5QQ6gjQ0beVwdfq832C8_FFFuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
